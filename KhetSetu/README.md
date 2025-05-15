@@ -24,7 +24,7 @@ This project is a Flutter application.
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/shashwathv/the_knights.git
 ```
 
 2. Install dependencies
