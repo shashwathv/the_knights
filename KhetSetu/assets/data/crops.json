@@ -1,0 +1,115 @@
+{
+  "crops": [
+    {
+      "name": "paddy",
+      "localizedNames": {
+        "en": "Paddy",
+        "kn": "ಭತ್ತ"
+      },
+      "loan": 10000,
+      "fertilizer": "50kg",
+      "seeds": "20kg",
+      "water": "1500L",
+      "cultivationGuide": {
+        "en": "1. Prepare land by plowing\n2. Sow seeds in nursery\n3. Transplant after 21 days\n4. Maintain water level\n5. Apply fertilizers as per schedule",
+        "kn": "1. ನೇಗಿಲು ಹೊಡೆದು ಭೂಮಿಯನ್ನು ಸಿದ್ಧಪಡಿಸಿ\n2. ನಾರ್ಸರಿಯಲ್ಲಿ ಬೀಜ ಬಿತ್ತಿ\n3. 21 ದಿನಗಳ ನಂತರ ನಾಟಿ ಮಾಡಿ\n4. ನೀರಿನ ಮಟ್ಟವನ್ನು ನಿರ್ವಹಿಸಿ\n5. ವೇಳಾಪಟ್ಟಿಯ ಪ್ರಕಾರ ರಸಗೊಬ್ಬರ ಹಾಕಿ"
+      }
+    },
+    {
+      "name": "wheat",
+      "localizedNames": {
+        "en": "Wheat",
+        "kn": "ಗೋಧಿ"
+      },
+      "loan": 8000,
+      "fertilizer": "40kg",
+      "seeds": "15kg",
+      "water": "1200L",
+      "cultivationGuide": {
+        "en": "1. Choose well-drained soil\n2. Sow seeds directly\n3. Maintain proper spacing\n4. Regular irrigation\n5. Monitor for pests",
+        "kn": "1. ಒಳ್ಳೆಯ ಒಣ ಮಣ್ಣನ್ನು ಆಯ್ಕೆ ಮಾಡಿ\n2. ನೇರವಾಗಿ ಬೀಜ ಬಿತ್ತಿ\n3. ಸರಿಯಾದ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ\n4. ನಿಯಮಿತ ನೀರಾವರಿ\n5. ಕೀಟಗಳಿಗಾಗಿ ನಿಗಾ ವಹಿಸಿ"
+      }
+    },
+    {
+      "name": "maize",
+      "localizedNames": {
+        "en": "Maize",
+        "kn": "ಮೆಕ್ಕೆಜೋಳ"
+      },
+      "loan": 7500,
+      "fertilizer": "35kg",
+      "seeds": "10kg",
+      "water": "1000L",
+      "cultivationGuide": {
+        "en": "1. Deep plowing required\n2. Plant seeds 5cm deep\n3. Regular weeding\n4. Apply fertilizer timely\n5. Harvest when cobs dry",
+        "kn": "1. ಆಳವಾದ ನೇಗಿಲು ಅಗತ್ಯವಿದೆ\n2. 5 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ಬೀಜ ಬಿತ್ತಿ\n3. ನಿಯಮಿತ ಕಳೆ ತೆಗೆಯುವಿಕೆ\n4. ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ರಸಗೊಬ್ಬರ ಹಾಕಿ\n5. ತೆನೆಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ"
+      }
+    }
+  ],
+  "expenseTypes": [
+    {
+      "en": "Seeds",
+      "kn": "ಬೀಜಗಳು"
+    },
+    {
+      "en": "Fertilizer",
+      "kn": "ರಸಗೊಬ್ಬರ"
+    },
+    {
+      "en": "Labor",
+      "kn": "ಕೂಲಿ"
+    },
+    {
+      "en": "Equipment",
+      "kn": "ಉಪಕರಣಗಳು"
+    },
+    {
+      "en": "Irrigation",
+      "kn": "ನೀರಾವರಿ"
+    }
+  ],
+  "lenders": [
+    {
+      "name": "State Bank of India",
+      "contact": "+91-1800-425-3800",
+      "interestRate": "7%",
+      "description": {
+        "en": "Agricultural loans with competitive interest rates",
+        "kn": "ಸ್ಪರ್ಧಾತ್ಮಕ ಬಡ್ಡಿ ದರದಲ್ಲಿ ಕೃಷಿ ಸಾಲಗಳು"
+      }
+    },
+    {
+      "name": "Karnataka Gramin Bank",
+      "contact": "+91-1800-425-1444",
+      "interestRate": "6.5%",
+      "description": {
+        "en": "Special loans for small and marginal farmers",
+        "kn": "ಸಣ್ಣ ಮತ್ತು ಅತಿ ಸಣ್ಣ ರೈತರಿಗೆ ವಿಶೇಷ ಸಾಲಗಳು"
+      }
+    }
+  ],
+  "subsidies": [
+    {
+      "title": {
+        "en": "PM Kisan Samman Nidhi",
+        "kn": "ಪಿಎಂ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ"
+      },
+      "description": {
+        "en": "Rs. 6000 per year direct benefit transfer",
+        "kn": "ವರ್ಷಕ್ಕೆ ರೂ. 6000 ನೇರ ಲಾಭ ವರ್ಗಾವಣೆ"
+      },
+      "lastDate": "2024-03-31"
+    },
+    {
+      "title": {
+        "en": "Soil Health Card Scheme",
+        "kn": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ"
+      },
+      "description": {
+        "en": "Free soil testing and recommendations",
+        "kn": "ಉಚಿತ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮತ್ತು ಶಿಫಾರಸುಗಳು"
+      },
+      "lastDate": "2024-12-31"
+    }
+  ]
+} 

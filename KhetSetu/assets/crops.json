@@ -1,0 +1,62 @@
+{
+  "paddy": {
+    "loan": 10000,
+    "fertilizer": "50kg",
+    "seeds": "20kg",
+    "water": "1500L"
+  },
+  "wheat": {
+    "loan": 8000,
+    "fertilizer": "40kg",
+    "seeds": "15kg",
+    "water": "1200L"
+  },
+  "maize": {
+    "loan": 7500,
+    "fertilizer": "35kg",
+    "seeds": "10kg",
+    "water": "1000L"
+  },
+  "cotton": {
+    "loan": 9000,
+    "fertilizer": "45kg",
+    "seeds": "12kg",
+    "water": "1800L"
+  },
+  "sugarcane": {
+    "loan": 12000,
+    "fertilizer": "60kg",
+    "seeds": "25kg",
+    "water": "2500L"
+  },
+  "millet": {
+    "loan": 6000,
+    "fertilizer": "20kg",
+    "seeds": "8kg",
+    "water": "700L"
+  },
+  "barley": {
+    "loan": 7000,
+    "fertilizer": "30kg",
+    "seeds": "10kg",
+    "water": "950L"
+  },
+  "soybean": {
+    "loan": 8500,
+    "fertilizer": "38kg",
+    "seeds": "9kg",
+    "water": "1100L"
+  },
+  "groundnut": {
+    "loan": 7800,
+    "fertilizer": "32kg",
+    "seeds": "11kg",
+    "water": "900L"
+  },
+  "mustard": {
+    "loan": 8200,
+    "fertilizer": "36kg",
+    "seeds": "10kg",
+    "water": "1000L"
+  }
+}
